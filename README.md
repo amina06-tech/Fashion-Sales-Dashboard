@@ -4,11 +4,11 @@
 
 # Fashion Sales Dashboard | Power BI
 
-An interactive Power BI dashboard that analyzes fashion sales performance, customer behavior, payment trends, and delivery insights.
+An interactive Power BI dashboard for analyzing fashion sales performance, customer behavior, payment trends, and city-wise sales insights.
 
 ## Project Overview
 
-This project transforms raw fashion retail data into an interactive business intelligence dashboard using Power BI. It helps identify sales trends, top-performing categories, customer preferences, and city-wise performance through dynamic visualizations and KPIs.
+This project transforms raw fashion retail data into an interactive business intelligence dashboard using Power BI. It helps identify sales trends, top-performing product categories, customer preferences, and monthly business performance through dynamic visualizations and KPIs.
 
 ## Tools & Technologies
 
@@ -21,26 +21,26 @@ This project transforms raw fashion retail data into an interactive business int
 
 | KPI | Value |
 |------|------:|
-| Total Sales | **17.92M** |
-| Total Orders | **5K** |
-| Total Quantity | **12K** |
-| Average Rating | **4.24** ⭐ |
+| **Total Sales** | **17.92M** |
+| **Total Orders** | **5K** |
+| **Total Quantity** | **12K** |
+| **Average Rating** | **4.24 ⭐** |
 
 ## Dashboard Features
 
-- Interactive slicers (Year, Gender, Category, City, Payment Method)
-- Sales by Product Category
-- City-wise Sales Analysis
+- Interactive slicers (Year, Gender, Category, City, and Payment Method)
+- Sales by Category Analysis
+- City-wise Sales Performance
 - Payment Method Distribution
 - Monthly Sales Trend
 - Dynamic KPI Cards
 
 ## Business Insights
 
-- Hyderabad recorded the highest overall sales.
-- Shoes emerged as one of the best-performing product categories.
+- Hyderabad generated the highest overall sales.
+- Shoes were among the top-performing product categories.
 - Card and Net Banking were the most preferred payment methods.
-- Sales remained strongest during the mid-year months.
+- Monthly sales peaked during the mid-year period.
 
 ## Repository Files
 
@@ -50,6 +50,5 @@ This project transforms raw fashion retail data into an interactive business int
 
 ## Author
 
-**Amina Biradar**
-
+**Amina Biradar**  
 Aspiring Data Analyst | Pune, India
