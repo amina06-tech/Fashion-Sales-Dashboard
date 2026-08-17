@@ -1,36 +1,52 @@
 <p align="center">
   <img src="dashboard.png" width="850"/>
 </p>
+
 # Fashion Sales Dashboard | Power BI
+
+An interactive Power BI dashboard that analyzes fashion sales performance, customer behavior, payment trends, and delivery insights.
 
 ## Project Overview
 
-An interactive Power BI dashboard built to analyze fashion sales performance, customer behavior, and delivery insights.
+This project transforms raw fashion retail data into an interactive business intelligence dashboard using Power BI. It helps identify sales trends, top-performing categories, customer preferences, and city-wise performance through dynamic visualizations and KPIs.
 
-## Tools Used
+## Tools & Technologies
 
 - Power BI
-- Microsoft Excel
-- DAX
+- DAX (Data Analysis Expressions)
+- Microsoft Excel / CSV
 - Data Visualization
+
+## Key KPIs
+
+| KPI | Value |
+|------|------:|
+| Total Sales | **17.92M** |
+| Total Orders | **5K** |
+| Total Quantity | **12K** |
+| Average Rating | **4.24** ⭐ |
 
 ## Dashboard Features
 
-- Total Sales KPI
-- Total Orders KPI
-- Average Rating KPI
-- Sales by Category
-- Sales by City
-- Payment Method Analysis
-- Delivery Status Analysis
+- Interactive slicers (Year, Gender, Category, City, Payment Method)
+- Sales by Product Category
+- City-wise Sales Analysis
+- Payment Method Distribution
 - Monthly Sales Trend
+- Dynamic KPI Cards
 
-## Key Business Insights
+## Business Insights
 
-- Hyderabad generated the highest sales.
-- Shoes were the top-selling category.
-- Card and Net Banking were the most used payment methods.
-- Price had the strongest positive impact on Total Sales.
+- Hyderabad recorded the highest overall sales.
+- Shoes emerged as one of the best-performing product categories.
+- Card and Net Banking were the most preferred payment methods.
+- Sales remained strongest during the mid-year months.
+
+## Repository Files
+
+- `Fashion-Sales-Dashboard.pbix` — Power BI dashboard
+- `fashion_sales.csv` — Source dataset
+- `dashboard.png` — Dashboard preview
 
 ## Author
 
