@@ -1,3 +1,4 @@
+![Fashion Sales Dashboard](dashboard.png)
 # Fashion Sales Dashboard | Power BI
 
 ## Project Overview
