@@ -1,4 +1,6 @@
-![Fashion Sales Dashboard](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="850"/>
+</p>
 # Fashion Sales Dashboard | Power BI
 
 ## Project Overview
